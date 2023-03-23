@@ -1,0 +1,82 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+
+.one {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    color:dodgerblue;
+    padding: 10px 10px;
+}
+
+.two {
+    background-color: rgb(20, 43, 77);
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 10px;
+}
+
+div .dtwopp {
+    font-size:22px;
+}
+
+div .dtwo {
+    padding-bottom: 50px;
+}
+
+div .dtwolarge {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+div .dtwothin {
+    font-size: 18px;
+    font-weight: 100;
+}
+
+div .dtwomed {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.three {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 10px;
+}
+
+div .dthreep {
+    padding-top: 20px;
+}
+
+div .dthreetwo {
+    font-size: 24px;
+    color:deepskyblue;
+    padding-bottom: 30px
+}
+
+div .dthreefour {
+    font-size: 36px;
+    font-weight: 800;
+    padding-bottom: 30px
+}
+
+.four {
+    background-color: gainsboro;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 10px;
+}
+
+div .fourtext {
+    font-size: 24px;
+    padding-bottom: 30px;
+}
+
+div .italics {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    padding-bottom: 50px;
+}
